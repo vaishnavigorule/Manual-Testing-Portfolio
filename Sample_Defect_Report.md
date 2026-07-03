@@ -6,7 +6,7 @@
 | Title | Password is displayed in plain text instead of being masked |
 | Module | Login |
 | Reported By | Vaishnavi Gorule |
-| Reported Date | DD/MM/YYYY |
+| Reported Date | 10/02/2026 |
 | Severity | High |
 | Priority | High |
 | Status | Open |
@@ -42,7 +42,7 @@ This exposes sensitive user information and poses a security risk.
 | Title | Remember Me functionality does not retain user session |
 | Module | Login |
 | Reported By | Vaishnavi Gorule |
-| Reported Date | DD/MM/YYYY |
+| Reported Date | 10/02/2026 |
 | Severity | Medium |
 | Priority | Medium |
 | Status | Open |
@@ -71,5 +71,4 @@ The user is redirected to the Login page and must log in again.
 ## Impact
 The feature does not work as expected, reducing user convenience.
 
-## Attachment
-Screenshot (if available)
+
