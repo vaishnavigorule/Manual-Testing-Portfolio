@@ -34,7 +34,7 @@ This exposes sensitive user information and poses a security risk.
 
 
 
-#🐞 Bug Report 2
+# 🐞 Bug Report 2
 
 | Field | Details |
 |--------|---------|
