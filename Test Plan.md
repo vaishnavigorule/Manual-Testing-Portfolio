@@ -30,7 +30,6 @@ To verify that all functional and non-functional requirements of the application
 ## Test Environment
 - OS: Windows 11
 - Browser: Chrome, Edge, Firefox
-- Database: MySQL
 
 ## Entry Criteria
 - Requirements approved
