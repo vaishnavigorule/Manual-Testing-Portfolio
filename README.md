@@ -6,14 +6,13 @@ This repository showcases my hands-on practice in Manual Testing. It contains te
 
 ## 📌 Contents
 
-- Test Cases
-- Test Scenarios
-- Bug Reports
 - Test Plans
 - Requirement Traceability Matrix (RTM)
-- Mind Maps
-- Sample Test Data
-- Screenshots
+- Test Cases
+- Test Scenarios
+- Defect Reports
+- Test Summary Report
+
 
 ## 🛠 Tools Used
 
